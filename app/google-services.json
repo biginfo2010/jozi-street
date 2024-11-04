@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801060879838",
+    "project_id": "jozi-street-user",
+    "storage_bucket": "jozi-street-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801060879838:android:f86b6804f403c55827f14f",
+        "android_client_info": {
+          "package_name": "com.jozistreet.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu85yEt4e7mSXmHKGnnJuRorOfW-SXW_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

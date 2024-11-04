@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+		ADDED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml:1:1-4:12
+		INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml:3:5-72
+	android:name
+		ADDED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml:3:22-69
+uses-sdk
+INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+		ADDED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+		INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+		ADDED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
+		INJECTED from D:\OTHER\Jozi Street User\contactfetcher\src\main\AndroidManifest.xml
